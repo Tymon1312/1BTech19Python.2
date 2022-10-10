@@ -2,32 +2,32 @@
 
 a = int(input())
 b = int(input())
-print(a*a + b*b)
+print(a * a + b * b)
 
 # zad 2
 
 a = int(input())
 b = int(input())
-print ((a + b)**2)
+print((a + b)**2)
 
 # zad 3
 
 a = int(input())
 b = int(input())
-print ((a-b)**3 )
+print((a - b)**3)
 
 # zad 4
 
 a = int(input())
 b = int(input())
 c = int(input())
-print ((a*b*c))
+print((a * b * c))
 
 # zad 5
 
 a = int(input())
 b = int(input())
-print (((a+b)*2)/5)
+print(((a + b) * 2) / 5)
 
 # zad 6
 
@@ -37,4 +37,4 @@ print(brutto / 1.23)
 # zad 7
 
 a, b = int(input()), int(input())
-print ((a%b))
+print((a % b))
