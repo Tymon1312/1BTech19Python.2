@@ -1,6 +1,6 @@
 #zad 1
 # n = int(input())
-# if n % 3 == 0:
+#if n % 3 == 0:
 #   print("TAK")
 # else:
 #   print("NIE")
@@ -23,7 +23,7 @@
 # if waga <=limit:
 #   print("JAZDA")
 # else:
-#   print("trocge za ciężko")
+#   print("troche za ciężko")
 #zad 5
 # a= int(input())
 # b= int(input())
