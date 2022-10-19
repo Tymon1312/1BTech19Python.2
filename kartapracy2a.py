@@ -8,7 +8,7 @@
 # zad2
 # a = int(input())
 # g = int(input())
-# if (a+g)/2 > (a**g)/(1/2):
+# if (a+g)/2 > math.(a**g):
 #  print ("średnia arytmetyczna większa")
 # else:
 #  print("średnia geometryczna większa")
