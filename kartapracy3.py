@@ -27,3 +27,18 @@
 # for i in range(100, 1000):
 # if i % 15 ==0:
 #  print(i, end=" ")
+#zad 3
+# n = int(input())
+# for i in range(1,n+1):
+#  if n % i ==0:
+#   print(i, end=" ")
+#zad 4
+# s = 0
+# for i in range(10,100):
+#  s = s + i
+# print(s)
+#zad 5
+n = int(input())
+for i in range(n-1):
+    k = int(input())
+  

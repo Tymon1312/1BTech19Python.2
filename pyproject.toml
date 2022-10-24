@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "repl_nix_1BTech19Python2-2"
+version = "0.1.0"
+description = ""
+authors = ["Replit user <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+selenium = "^4.5.0"
+bs4 = "^0.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
