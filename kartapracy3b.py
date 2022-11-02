@@ -14,3 +14,13 @@
 #   print(i, end=" ")
 #zad 5
 
+#zad 6
+
+#zad 7
+
+#zad 8
+
+#zad 9
+  
+#zad 10
+

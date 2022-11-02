@@ -47,8 +47,16 @@
 
 
 #napisz pętle sumującą liczby dwucyfrowe parzyste
-suma = 0
-for i in range(10,100, 2):
-  suma = suma + i
-print(suma)
+# suma = 0
+# for i in range(10,100, 2):
+#   suma = suma + i
+# print(suma)
   
+#zad 6
+n = int(input())
+a= 0
+b= 1
+
+for i in range(n):
+  a, b = b, a+b
+  print(b, end=" ")
