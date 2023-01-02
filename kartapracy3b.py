@@ -13,7 +13,12 @@
 #  if i % 5 == 0 and i % 6 ==0 or i % 11==0:
 #   print(i, end=" ")
 #zad 5
-
+n=int(input())
+suma=0
+for i in range(n):
+   a=int(input())
+   suma = suma +a
+print(suma)
 #zad 6
 
 #zad 7
